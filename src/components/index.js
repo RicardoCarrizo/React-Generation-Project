@@ -1,0 +1,10 @@
+import TextComponent from "./Texto";
+import TableComponent from "./Table";
+import FormularioAutoComponent from "./FormularioAuto";
+import FormularioUsuarioComponent from "./FormulariosUsuario";
+import TablaAutoComponent from "./TablaAuto";
+import TablaUsuarioComponent from "./TablaUsuario";
+import BotonActualizarComponent from "./BotonActualizar";
+import BotonSendComponent from "./BotonEnviar";
+import BotonFormularioComponent from "./BotonFormulario";
+export {TextComponent, TableComponent, TablaAutoComponent, TablaUsuarioComponent, FormularioAutoComponent,FormularioUsuarioComponent, BotonActualizarComponent, BotonSendComponent, BotonFormularioComponent };
